@@ -5,6 +5,7 @@
 
 - This project is inspired in [Chess.com](https://www.chess.com/)
 - Using React.js and Firebase
+- Libraries: [chessboardjsx.com](https://chessboardjsx.com/) & [chess.js](https://github.com/jhlywa/chess.js)
 - Still in development
 
 ## Features
