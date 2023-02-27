@@ -11,6 +11,7 @@
 ## Features
 
 - Login/SignUp
+- Offline Chess
 - Friends (soon)
 - Online Chess (soon)
 - Elo System (soon)
