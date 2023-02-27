@@ -4,7 +4,7 @@
 ## Description
 
 - This project is inspired in [Chess.com](https://www.chess.com/)
-- Developed in React.js and Firebase
+- Using React.js and Firebase
 - Still in development
 
 ## Features
